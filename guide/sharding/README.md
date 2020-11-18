@@ -30,7 +30,7 @@ manager.spawn();
 </branch>
 <branch version="12.x">
 
-```js
+```js222
 const { ShardingManager } = require('discord.js');
 const manager = new ShardingManager('./bot.js', { token: 'your-token-goes-here' });
 
